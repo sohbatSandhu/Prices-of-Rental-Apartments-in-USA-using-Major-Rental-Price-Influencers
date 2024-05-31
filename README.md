@@ -2,6 +2,6 @@
 
 ## Prediction Model for Rental Apartment Prices using Major Price Influencers
 
-- Collaborated with group members to develop a predictive model to estimate rental prices using Major Price Influencers
-- Prepared data for easier visualization and preliminary analysis using Tidyverse
-- Utilized model selection algorithms, such as Forward Stepwise Selection, to identify the most influential features and optimized model performance
+- Developed and trained model with team to develop a predictive model to estimate rental prices 
+- Performed EDA using Tidyverse and engineered features to reduce redundant categories from 54 to 3.
+- Utilized Forward Stepwise Selection using leaps package, to reduce features from 10 to 6 without reducing performance
